@@ -4,7 +4,7 @@
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
 
-> A curated list of tools you can use instantly — no account, no sign-up, no credit card. One line per entry.
+> A curated list of tools you can use instantly - no account, no sign-up, no credit card. One line per entry.
 
 ## Why This List
 Everyone hates creating an account just to convert a file or remove a background. This list is instantly shareable, has almost no direct competition as an awesome list, and every entry is fun to try.
@@ -52,4 +52,4 @@ Everyone hates creating an account just to convert a file or remove a background
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: no account or sign-up required to use the tool, no trial credits, one entry per tool.
 
 ## License
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use freely, no attribution required.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)- public domain. Use freely, no attribution required.
