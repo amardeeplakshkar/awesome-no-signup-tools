@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-no-signup-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-20-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
 
 > A curated list of tools you can use instantly - no account, no sign-up, no credit card. One line per entry.
 
@@ -47,6 +47,8 @@ Everyone hates creating an account just to convert a file or remove a background
 | [10 Minute Mail](https://10minutemail.com/) | Temporary disposable email inbox |
 | [TinyURL](https://tinyurl.com/) | Shorten long links instantly |
 | [Speedtest](https://www.speedtest.net/) | Test internet speed instantly |
+| [MicroTools](https://tools.splitlight.ai) | 18+ free developer utilities that run in the browser, no sign-up |
+| [Hookdeck Inspect](https://inspect.hookdeck.com) | Free webhook test URLs with no account |
 
 ## Contributing
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: no account or sign-up required to use the tool, no trial credits, one entry per tool.
