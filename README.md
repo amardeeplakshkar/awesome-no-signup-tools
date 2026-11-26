@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-no-signup-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
 
 > A curated list of tools you can use instantly - no account, no sign-up, no credit card. One line per entry.
 
@@ -25,6 +25,7 @@ Everyone hates creating an account just to convert a file or remove a background
 | [Remove.bg](https://www.remove.bg/) | Remove image backgrounds in one click |
 | [Coolors](https://coolors.co/) | Generate colour palettes instantly |
 | [Unsplash](https://unsplash.com/) | Download free high-resolution stock photos |
+| [YouTube Banner Lab](https://antoniocamerino.com/en/youtube-banner-lab) | YouTube banner maker with mobile, desktop and TV safe-area previews and local export, free with no signup or watermark |
 
 ## Convert and Fix
 | Tool | What it does |
