@@ -50,6 +50,7 @@ Everyone hates creating an account just to convert a file or remove a background
 | [Speedtest](https://www.speedtest.net/) | Test internet speed instantly |
 | [MicroTools](https://tools.splitlight.ai) | 18+ free developer utilities that run in the browser, no sign-up |
 | [Hookdeck Inspect](https://inspect.hookdeck.com) | Free webhook test URLs with no account |
+| [StagePeek](https://stagepeek.live/) | Preview 2D & 3D concert seat views across 201 venues, no sign-up |
 
 ## Contributing
 See CONTRIBUTING.md. The short version: fork this repo, add your entry as one line in the right table, open a pull request. Rules: no account or sign-up required to use the tool, no trial credits, one entry per tool.
