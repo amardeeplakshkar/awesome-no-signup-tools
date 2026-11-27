@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-no-signup-tools/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-24-orange.svg)]()
 
 > A curated list of tools you can use instantly - no account, no sign-up, no credit card. One line per entry.
 
